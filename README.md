@@ -1,6 +1,8 @@
 
 # A low cost instrumented cube for assessing robotic performance from a first person perspective 
 
+<a href="https://www.buymeacoffee.com/joementrex" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 This repository contains the content documenting the files for the instrumented cube
 
 The data collected has been ommitted from this repository as it exceeds the github 100MB limit.
