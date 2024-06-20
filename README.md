@@ -17,6 +17,7 @@ The parts used in this project are:
 - Adafruit MCP23017 I2C GPIO Expander Breakout - STEMMA QT / Qwiic
 - PETG and TPU material for 3D printing
 - MIN CI Strong Neodymium Disc Magnets, 32x 3mm Rare Earth Magnets
+- M2 Heat inserts and screws
 
 ## 3D Files
 
