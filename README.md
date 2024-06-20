@@ -5,7 +5,7 @@
 
 This repository contains the content documenting the files for the instrumented cube
 
-The data collected has been ommitted from this repository as it exceeds the github 100MB limit.
+The data collected has been omitted from this repository as it exceeds the github 100MB limit.
 
 ## Parts used
 
