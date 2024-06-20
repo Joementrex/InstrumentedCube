@@ -35,18 +35,29 @@ The custom PCB for the sensors were developed by another student and used in thi
 To assemble the device, 3D print the 3D model files with the inner shell and lid printed in a tough material such as PETG to ensure longevitiy and durability for extended use of the device under high forces, and print the bottom face to enclose the bottom.
 Do the same for the reciever print model and assemble it. The antenna can be removed on the reciever without limiting range greatly.
 
-![Screenshot of reciever](Images/Screenshot 2024-06-20 171325.png)
+![Screenshot of reciever](https://github.com/Joementrex/InstrumentedCube/blob/main/Images/Screenshot%202024-06-20%20171325.png)
 
 The modules and the outer shell is printed out of TPU material, TPU 95A was used but printers capable of printing a softer material can be used for better performance. 
 
 Once printed get the PCB's made and assemble them with the appropriate resistor and sensor.
 Wire up the sensors in groups of 3 with optional JST connectors for simple disassembly and glue them into the inserts in the modules. To provide face swaps and easy assembly and disassembly wire up the order of the sensors in each face the same order.
 
+![Photo of module wired up](https://github.com/Joementrex/InstrumentedCube/blob/main/Images/20240606_040128.jpg)
+
 Glue 5 magnets around the inner shell, and feed the wires of the modules through the holes in the inner shell. Heat insert m2 inserts into the hole for the lid screw in the inner shell and 4 more inside the lid for the IO expander and screw the IO expander onto the lid. 
+
+![Photo of innershell wired up](https://github.com/Joementrex/InstrumentedCube/blob/main/Images/20240606_021338.jpg)
 
 Place the ESP32C3 microcontroller in the designated slot in the inner shell and place the battery inside the shell. Connect the IO expander to the microcontroller and the modules to the IO expander. Screw on the bottom lid.
 
+![Inner Wiring](https://github.com/Joementrex/InstrumentedCube/blob/main/Images/20240607_185418.jpg)
+
 Face the top module with the peak sensor facing the forward direction and the remaining modules have the peak sensor facing upwards. Enclose the modules with the outer shell and place the bottom face onto the device to secure the cube together and provide a flat surface. 
+
+![Cube](https://github.com/Joementrex/InstrumentedCube/blob/main/Images/20240607_185329.jpg)
+![Cube](https://github.com/Joementrex/InstrumentedCube/blob/main/Images/20240607_185318.jpg)
+![Cube](https://github.com/Joementrex/InstrumentedCube/blob/main/Images/20240607_185314.jpg)
+
 
 Upload the code to the ESP32C3 reciever and transmitter. 
 
