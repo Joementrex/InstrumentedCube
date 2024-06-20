@@ -66,4 +66,8 @@ Upload the code to the ESP32C3 reciever and transmitter.
 
 To run the code, the main working example is the DataCollectionManualFinal that will prompt the user to press on each of the 4 contact points on the face and collect a range of sample data from the device. Once data has been collected manualFinal training will train the data on a random forest regressor and run inference on the file with a simple 2D visualiser showing contacts, forces and varying colour for each face.
 
-The reposatory also contains many examples of using different training methods, different data collections and many different visualisers ranging from automatic to manual data collection. What combination of tools used is up to the researcher. 
+The respository also contains many examples of using different training methods, different data collections and many different visualisers ranging from automatic to manual data collection. What combination of tools used is up to the researcher. 
+
+## Automatic collection 
+
+To probe the device using an ender 3 V2 a custom probe was designed that attaches to the printer and supports swapping of the probe to different contact point numbers and can be found in the 3D Files section.
