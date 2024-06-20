@@ -7,12 +7,20 @@ This repository contains the content documenting the files for the instrumented 
 
 The data collected has been ommitted from this repository as it exceeds the github 100MB limit.
 
+## Parts used
 
+The parts used in this project are:
+- 2 ESP32C3 microcontrollers
+- 15 custom PCB's
+- 15 TMAG5273A2 hall effect sensors
+- Many JST connectors
+- Adafruit MCP23017 I2C GPIO Expander Breakout - STEMMA QT / Qwiic
+- PETG and TPU material for 3D printing
+- MIN CI Strong Neodymium Disc Magnets, 32x 3mm Rare Earth Magnets
 
 ## 3D Files
 
-The 3D files folder contains the STL files of the instrumented object.
-
+The 3D files folder contains the STL files of the instrumented object to be downloaded, modified as wanted, and printed to construct the device.
 
 
 ## Code 
