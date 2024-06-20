@@ -35,6 +35,8 @@ The custom PCB for the sensors were developed by another student and used in thi
 To assemble the device, 3D print the 3D model files with the inner shell and lid printed in a tough material such as PETG to ensure longevitiy and durability for extended use of the device under high forces, and print the bottom face to enclose the bottom.
 Do the same for the reciever print model and assemble it. The antenna can be removed on the reciever without limiting range greatly.
 
+![Screenshot of reciever](Images/Screenshot 2024-06-20 171325.png)
+
 The modules and the outer shell is printed out of TPU material, TPU 95A was used but printers capable of printing a softer material can be used for better performance. 
 
 Once printed get the PCB's made and assemble them with the appropriate resistor and sensor.
